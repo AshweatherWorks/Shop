@@ -26,7 +26,7 @@ const PRODUCTOS = [
     specs: "Intel Core i5-10310U · 16 GB RAM · 256 GB M.2 SSD · 15.6\" · Cargador incluido",
     precio_dop: 15000,
     estado: "Reacondicionado",
-    foto: "img/products/thinkpad-t15-g1.WEBP",
+    foto: "github.com/AshweatherWorks/Shop/blob/main/img/products/thinkpad-t15-g1.webp?raw=true",
     destacado: true
   },
   // ---- SOFTWARE ----
