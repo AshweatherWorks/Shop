@@ -23,7 +23,7 @@ const PRODUCTOS = [
     id: "thinkpad-t14-g2-usada",
     categoria: "usada",
     nombre: "Lenovo ThinkPad T14 Gen 2",
-    specs: " Ryzen 5 4000 · 8 GB RAM · 256 GB M.2 SSD · 14\" · Cargador incluido",
+    specs: " Ryzen 5 4500U · 8 GB RAM · 256 GB M.2 SSD · 14\" · Cargador incluido",
     precio_dop: 15000,
     estado: "Reacondicionado",
     foto: "https://raw.githubusercontent.com/AshweatherWorks/Shop/refs/heads/main/img/products/s-l16erere00.jpg",
