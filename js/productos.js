@@ -21,7 +21,7 @@ const PRODUCTOS = [
 
   {
     id: "thinkpad-t14-g2-usada",
-    categoria: "usada",
+    categoria: "laptop",
     nombre: "Lenovo ThinkPad T14 Gen 2",
     specs: " Ryzen 5 4500U · 8 GB RAM · 256 GB M.2 SSD · 14\" · Cargador incluido",
     precio_dop: 15000,
